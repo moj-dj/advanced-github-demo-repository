@@ -1,0 +1,7 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "loadash": "^4.17.15"
+  }
+}
